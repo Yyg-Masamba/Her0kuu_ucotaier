@@ -1,7 +1,8 @@
-# ⚡ A fake repo to create stack as container in Heroku 😋 https://heroku.com/deploy?template= Fork https://github.com/Yyg-Masamba/Her0kuu_ucotaier
-
-# ⚡ Steps: 🔥
-1) Tap on [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+<a href="https://heroku.com/deploy?template=https://github.com/Yyg-Masamba/Her0kuu_ucotaier">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
+</details>
 
 2) Link your `GitHub` in Heroku.
 3) Go to `Deploy` section.
